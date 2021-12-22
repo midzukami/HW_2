@@ -13,4 +13,4 @@ https://colab.research.google.com/drive/12kO9Wz7RUja33TNk3C6KzbKC8PuTicdr?hl=ru#
 
 ЧАСТЬ 2
 
-
+https://colab.research.google.com/drive/13LNpWwnTxzS6Ouu5VgeNulQWu8V-3yv9?hl=ru#scrollTo=gxZ9gaFMjOt1
